@@ -4,6 +4,6 @@
 
 相关链接：
 
-* 存档页见此 -> [Wiki 主页](https://github.com/clareClaymore2001/runtoEuropa/wiki)
-* 克隆到本地 -> [Git 链接](https://github.com/clareClaymore2001/runtoEuropa.wiki.git)
+* 存档页见此 -> [Wiki 主页](https://github.com/open-run-org/runtoEuropa/wiki)
+* 克隆到本地 -> [Git 链接](https://github.com/open-run-org/runtoEuropa.wiki.git)
 * 润欧讨论组 -> [Discord 邀请](https://discord.gg/AEc3Xy8kgr)
